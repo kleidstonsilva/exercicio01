@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.exe
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.deps.json
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.runtimeconfig.json
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.pdb
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.AssemblyInfo.cs
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.pdb
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Exercicios\01\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.genruntimeconfig.cache
